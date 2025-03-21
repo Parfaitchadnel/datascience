@@ -1,1 +1,0 @@
-print("Salut, je m\'appelle Parfait")
